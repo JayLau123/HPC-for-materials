@@ -14,7 +14,7 @@ The main question we should be interested in is, given a computational problem a
 We will encounter many limits throughout the field of HPC, one of the interesting ones, come from physics, like the limit based on the speed of light, or the amount of energy, power or heat transfer in the materials inside the system. 
 
 That's why I'm also interested in quantum computing system, which represents the ultimate state of physical computation. I believe it's a promising solution to break the limits of conventional computing systems.
-![image](https://user-images.githubusercontent.com/98719524/231055401-d6cb55a9-0c05-443e-82fc-6c4298c61247.png)
+
 
 
 ## Scalable parallel computing
