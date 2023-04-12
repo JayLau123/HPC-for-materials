@@ -21,9 +21,23 @@ That's why I'm also interested in quantum computing system, which represents the
 
 “Scale” really refers to two things: efficient as the problem size grows, and efficient as the system size grows (measured in numbers of cores or compute nodes).
 
+## DFT, HPC, machine learning
+
+#### DFT: physics-informed materials research, based on equation and physical meaning.
+
+Schordinger's equation
+
+Kohn-Sham equation
+
+
+#### machine learning: data-driven materials research, based on big data and statistics.
+
+#### HPC: GPU acceleration for real ab initio calculation
+
 
 ## HPC: pave the way to quantum computing
 
 Know more about computer architecture, hardware layout, electrical and optical connections, etc.
+
 
 
