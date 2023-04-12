@@ -30,7 +30,7 @@ Schordinger's equation
 Kohn-Sham equation
 
 
-#### machine learning: data-driven materials research, based on big data and statistics.
+#### Machine learning: data-driven materials research, based on big data and statistics.
 
 #### HPC: GPU acceleration for real ab initio calculation
 
