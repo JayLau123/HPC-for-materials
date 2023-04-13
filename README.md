@@ -15,6 +15,7 @@ We will encounter many limits throughout the field of HPC, one of the interestin
 
 That's why I'm also interested in quantum computing system, which represents the ultimate state of physical computation. I believe it's a promising solution to break the limits of conventional computing systems.
 
+## Why high performance computing?
 
 
 ## Scalable parallel computing
