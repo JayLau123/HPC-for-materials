@@ -1,6 +1,12 @@
 # HPC-for-materials
 
-High performance computing for materials simulation
+High performance computing for computational materials
+
+Strongly recommended open source: The Materials Project(by the Lawrence Berkeley National Laboratory)
+
+https://materialsproject.org/
+
+Introduction: Harnessing the power of supercomputing and state-of-the-art methods, the Materials Project provides open web-based access to computed information on known and predicted materials as well as powerful analysis tools to inspire and design novel materials.
 
 ## What is high performance computing?
 
