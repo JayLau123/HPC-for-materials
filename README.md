@@ -69,10 +69,14 @@ Runtime for specific code.
 <img width="849" alt="Screenshot 2023-04-13 at 00 26 18" src="https://user-images.githubusercontent.com/98719524/231661748-8100512b-e650-4b5f-8105-7edb881e75b7.png">
 
 
+# Some useful tools that pave the way to HPC
+
+### 1.Bash Scripting Tutorial – Linux Shell Script and Command Line for Beginners
+
+https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/
 
 
-
-# Other relevant topics
+# Other relevant topics 
 
 ## DFT, HPC, machine learning
 
