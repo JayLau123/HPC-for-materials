@@ -10,6 +10,8 @@ Introduction: Harnessing the power of supercomputing and state-of-the-art method
 
 ## What is high performance computing?
 
+Open course: https://omscs.gatech.edu/cse-6220-intro-hpc
+
 High performance computing also known as supercomputing, scalable parallel computing, it's different from personal laptop and web server. HPC is about solving big, complex, computational-expensive problems as efficiently as possible.
 
 “Scale” refers to two things: efficient as the problem size grows, and efficient as the system size grows (measured in numbers of cores or compute nodes).
