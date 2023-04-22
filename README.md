@@ -1,6 +1,24 @@
 # HPC-for-materials
 
-Strongly recommended open source: 
+## Applications of HPC in materials
+
+High-performance computing (HPC) plays a crucial role in the field of materials science, as it allows researchers to perform advanced simulations, calculations, and analyses of materials at various length and time scales. By leveraging the power of HPC systems, researchers can gain insights into the fundamental properties of materials and design new materials with specific properties for various applications. Some of the key applications of HPC in materials science include:
+
+1. Electronic structure calculations: HPC is used to perform quantum mechanical calculations, such as density functional theory (DFT) and many-body perturbation theory, to study the electronic structure of materials. These calculations provide insights into material properties like band structure, density of states, and magnetic properties, which are essential for understanding and predicting material behavior.
+
+2. Molecular dynamics simulations: HPC enables large-scale molecular dynamics (MD) simulations, which involve the study of the motion and interactions of atoms and molecules over time. These simulations can reveal essential information about material properties, such as mechanical strength, thermal conductivity, and diffusion rates.
+
+3. Monte Carlo simulations: HPC is utilized for Monte Carlo simulations, which involve statistical sampling techniques to explore the thermodynamic properties of materials, such as phase transitions, chemical equilibrium, and reaction kinetics.
+
+4. First-principles calculations: HPC allows for accurate first-principles calculations based on quantum mechanics, which can predict various material properties, such as electronic, optical, and vibrational properties, without relying on experimental data.
+
+5. Materials genome initiative: HPC plays a significant role in the Materials Genome Initiative, which aims to accelerate the discovery, design, and deployment of new materials by leveraging computational methods, data mining, and machine learning techniques.
+
+6. Machine learning and data-driven materials discovery: HPC enables the application of machine learning algorithms for materials discovery, which involves training models on large datasets generated from simulations or experiments to predict material properties and identify new materials with specific characteristics.
+
+7. Multiscale modeling: HPC allows for the integration of models across different length and time scales, providing a comprehensive understanding of material behavior from the atomic level to the macroscopic level.
+
+By harnessing the power of HPC, researchers can accelerate materials discovery, optimize material properties for specific applications, and reduce the time and cost associated with experimental studies, leading to significant advancements in fields such as energy storage, electronics, aerospace, and medicine.
 
 **The Materials Project(by the Lawrence Berkeley National Laboratory)** https://materialsproject.org/
 
